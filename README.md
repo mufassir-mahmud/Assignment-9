@@ -1,4 +1,4 @@
-# Quiz Mania
+# Quiz Mania Assignment
 
 * I build this project for coding quiz.
 * They can learn React, JS, CSS, Git.
