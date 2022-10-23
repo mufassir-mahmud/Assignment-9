@@ -4,6 +4,7 @@
 * They can learn React, JS, CSS, Git.
 * This website fully dynamic. This website develop using React JS.
 * This website user can see wuiz chart.
+* I use Chart js
 
 
 Live link : https://mufassir-quiz-pro.netlify.app/
