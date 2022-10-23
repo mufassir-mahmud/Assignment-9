@@ -1,17 +1,11 @@
-# quiz-crackerz-Assignment
+# Quiz Mania
 
-Please create yoru private repo 
-## [https://classroom.github.com/a/Ob89RIqo](https://classroom.github.com/a/Ob89RIqo)
 
-### Private Repo Link: [https://classroom.github.com/a/Ob89RIqo](https://classroom.github.com/a/Ob89RIqo)
 
-## QUIZ API LINK: 
-Get all quiz topics: https://openapi.programming-hero.com/api/quiz
+Live link : https://mufassir-quiz-pro.netlify.app/
 
-Get topic details by topic id: https://openapi.programming-hero.com/api/quiz/${id}
+### Hello,
+### Due to my github problem, I pushed manually. After many attempts, I could not fix it.
+### Thank you
 
-Example: https://openapi.programming-hero.com/api/quiz/1 
-# b6-quiz-crackerz-arman-aru
-# b6-quiz-crackerz-arman-aru
-# b6-quiz-crackerz-arman-aru
 # b6-quiz-crackerz-mufassir-mahmud
