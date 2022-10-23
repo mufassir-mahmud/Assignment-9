@@ -3,6 +3,7 @@
 * I build this project for coding quiz.
 * They can learn React, JS, CSS, Git.
 * This website fully dynamic. This website develop using React JS.
+* This website user can see wuiz chart.
 
 
 Live link : https://mufassir-quiz-pro.netlify.app/
